@@ -63,6 +63,5 @@ This project is a simple CRUD API for blog posts using Express.js, Prisma ORM, M
 - `src/swagger.json` — Swagger API documentation
 
 ## License
-
-MIT# belajar-express-js
+belajar-express-js
 # belajar-express-js
